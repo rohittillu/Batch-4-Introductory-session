@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>search string</h1>
+        <p id="dem"></p>
+        <script>
+            const minute=new Data().getminute();
+            let day;
+            switch(new Date().getDay())
+            {
+                case 0:
+                day="sun";
+                break;
+                case 1:
+                day="mon";
+                break;
+                case 2:
+                    day="tues";
+                    break;
+                    case 3:day="wed";
+                    break;
+                    case 4:day="thurs";
+                    break;
+                    case 5:day="fri";
+                    break;
+                    case 6:day="sat";
+                    break;
+
+            }
+            
+            document.getElementById("dem").innerHTML="today is " +day+"day";
+        </script>
+    </body>
+</html>

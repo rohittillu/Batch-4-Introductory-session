@@ -1,0 +1,103 @@
+head{
+    background-color: whitesmoke;
+    text-align: center;
+
+}
+p
+{ 
+	border: thin solid rgb(223, 236, 235);
+    padding-left: 0%;
+	 
+	text-align: justify; 
+	background-color: rgb(223, 236, 235);
+	word-wrap: break-word;  
+	margin:  auto; 
+
+}
+a{
+    border: thin solid rgb(223, 236, 235);
+    padding-left: 0%;
+	 
+	text-align: justify; 
+	background-color: rgb(223, 236, 235);
+    word-wrap: break-word;
+	margin:auto; 
+
+
+}
+
+body {
+    background-color:white;
+    font-size: medium;
+    
+    color: rgb(0, 0, 0);
+
+}
+p {
+    font-size: x-large;
+    
+}
+h2{
+    border: thin solid rgb(195, 197, 197);
+    padding-left: 0%;
+	 
+	text-align: justify; 
+	background-color: rgb(195, 197, 197);
+	word-wrap: break-word; 
+    margin-top: auto;
+    margin-right: 0px;
+}
+h3{
+    border: thin solid rgb(195, 197, 197);
+    padding-left: 0%;
+	 
+	text-align: justify; 
+	background-color: rgb(195, 197, 197);
+	word-wrap: break-word; 
+    margin-top: auto;
+    margin-right: 0px;
+}
+h4{
+    border: thin solid rgb(195, 197, 197);
+    padding-left: 0%;
+	 
+	text-align: justify; 
+	background-color: rgb(195, 197, 197);
+	word-wrap: break-word; 
+    margin-top: auto;
+    margin-right: 0px;
+}
+h5 {
+    border: thin solid rgb(195, 197, 197);
+    padding-left: 0%;
+	 
+	text-align: justify; 
+	background-color: rgb(195, 197, 197);
+	word-wrap: break-word; 
+    margin-top: auto;
+    margin-right: 0px;
+}
+h6 {
+    border: thin solid rgb(195, 197, 197);
+    padding-left: 0%;
+	 
+	text-align: justify; 
+	background-color: rgb(195, 197, 197);
+	word-wrap: break-word; 
+    margin-top: auto;
+    margin-right: 0px;
+}
+h7{
+    border: thin solid rgb(195, 197, 197);
+    padding-left: 0%;
+	 
+	text-align: justify; 
+	background-color: rgb(195, 197, 197);
+	word-wrap: break-word; 
+    margin-top: auto;
+    margin-right: 0px;
+}
+
+ul{
+    background-color: rgb(223, 236, 235);
+}
